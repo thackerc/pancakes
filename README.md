@@ -1,5 +1,9 @@
 # Revenge of the Pancakes
 
+## Challenge Description
+
+The Revenge of the Pancakes challenge description can be found [here](./challenge.pdf).
+
 ## Explanation
 
 A simple way to describe an optimal algorithm for flipping all pancakes to be face up is to view the stack as 1 or more groups of pancakes all facing in the same direction. Groups are defined by 1) edges - the top/bottom of the stack, or 2) boundaries - between two pancakes that face opposite directions (i.e., a sequence  of "-+" or "+-").
