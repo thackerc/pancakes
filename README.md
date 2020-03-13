@@ -2,7 +2,7 @@
 
 ## Challenge Description
 
-The Revenge of the Pancakes challenge description can be found [here](./challenge.pdf).
+The Revenge of the Pancakes challenge description can be found [here](./challenge.pdf). This assignment is [Problem B](https://code.google.com/codejam/contest/6254486/dashboard#s=p1&a=1) taken from the 2016 Google Code Jam. Code and explanation are my own.
 
 ## Explanation
 
@@ -22,6 +22,6 @@ From the root of the project directory run [pancakes.py](./pancakes.py) on the c
 cat input/basic.in | python3 pancakes.py
 ```
 
-## Disclaimer
+## Dependency
 
-This assignment is [Problem B](https://code.google.com/codejam/contest/6254486/dashboard#s=p1&a=1) taken from the 2016 Google Code Jam. The method I used is informed by the work done by others. Code and explanation are my own.
+This solution was developed using Python 3.7.6.
